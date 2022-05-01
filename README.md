@@ -22,5 +22,5 @@ Saving the Model:
 1. Import the Save function from Joblib Library:
     - from joblib import save
 2. Save Heart Disease Model:
-    - save(<Name of Heart Disease Model Variable>, filename='HeartDiseaseModel')
+    - save({Name of Heart Disease Model Variable}, filename='HeartDiseaseModel')
 3. Model would be saved in the same directory
