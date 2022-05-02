@@ -7,8 +7,6 @@ Project Description:
 Installation:
 1. Download Project:
     - git clone https://github.com/jaredpek/Heart-Disease-ML-Model
-2. Install Requirements:
-    - pip install -r requirements.txt
 
 Loading the Model:
 1. Import the Load function from Joblib Library:
