@@ -1,4 +1,4 @@
-# Heart-Disease-ML-Model
+# Heart-Disease-Classification-Model
 Project Description:
 - This is a Machine Learning Model Created using Python's SciKit-Learn Library.
 - The model will predict whether a person has Heart Disease from their Medical Attributes.
