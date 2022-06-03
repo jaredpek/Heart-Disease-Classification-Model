@@ -3,6 +3,7 @@ Project Description:
 - This is a Machine Learning Model Created using Python's SciKit-Learn Library.
 - The model will predict whether a person has Heart Disease from their Medical Attributes.
 - Refer to the ProjectOverview File for more information.
+- Model is Deployed using a Web Application crated using Streamlit.
 
 Installation:
 1. Download Project:
